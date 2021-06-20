@@ -1,0 +1,15 @@
+.UtilizationWidget{
+  width: 339px;
+  height: 800px;
+  padding: 24px 20px 20px 19px;
+  opacity: 1.8;
+  -webkit-backdrop-filter: blur(2px);
+  backdrop-filter: blur(2px);
+  background-color: #edf0f5;
+  border-left: 1.8px;
+  border-left-style: ridge;
+
+  z-index: 1000;
+  position: fixed;
+  right: 0px;
+}

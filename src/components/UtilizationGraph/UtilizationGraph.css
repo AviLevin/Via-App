@@ -1,0 +1,100 @@
+
+
+
+.UtilizationGraph {
+    width: 299px;
+    height: 400px;
+    margin: 24px 0 10px 1px;
+    padding: 13px 0 25px 1px;
+    border-radius: 4px;
+    box-shadow: 0 2px 6px 0 rgba(0, 0, 0, 0.05);
+    border: solid 1px #edeff5;
+    background-color: rgba(255, 255, 255, 0.95);
+  }
+
+ 
+   
+    .available {
+      width: 49px;
+      height: 14px;
+      margin: 20px 195px 10px 20px;
+      font-family: Roboto;
+      font-size: 20px;
+      font-weight: normal;
+      font-stretch: normal;
+      font-style: normal;
+      line-height: normal;
+      letter-spacing: normal;
+      text-align: left;
+      color: #666d7f;
+    }
+  
+
+    .path1 {
+      width: 107.2px;
+      height: 2px;
+      box-shadow: 0 0 2px 0 rgba(99, 248, 211, 0.2);
+      border: solid 3px #5eebc8;
+      margin: 21px 2px 2px 2px;
+      
+    }
+
+     .symbol1{
+     
+        min-width: 30px;
+        height: 30px;
+        margin: 10px 6px 27.1px 20px;
+        object-fit: contain;
+        
+      }
+    
+
+      .val{
+        
+          width: 14px;
+          height: 14px;
+          
+          margin: 13px 0px 25px -19px;
+          font-family: Roboto;
+          font-size: 17px;
+          font-weight: bold;
+          font-stretch: normal;
+          font-style: normal;
+          line-height: normal;
+          letter-spacing: normal;
+          text-align: center;
+          color: #666d7f;
+        }
+
+      .container{
+
+        
+          justify-content: center;
+          align-items: center;
+          align-content: center;
+         
+        
+      }
+
+      .progress_bar{
+
+        
+        margin: 17px -18px 25px -19px;
+      }
+
+      .total{
+        
+          width: 101px;
+          height: 14px;
+          margin: 0 144px 9px 19px;
+          font-family: Roboto;
+          font-size: 20px;
+          font-weight: normal;
+          font-stretch: normal;
+          font-style: normal;
+          line-height: normal;
+          letter-spacing: normal;
+          text-align: left;
+          color: #55565a;
+        
+      }

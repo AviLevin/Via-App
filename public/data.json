@@ -1,0 +1,9 @@
+[
+  {
+    "id":1,
+    "available": 20,
+    "regular": 40,
+    "carpool": 80
+  }
+  
+]
