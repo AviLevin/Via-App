@@ -4,6 +4,13 @@
     "available": 20,
     "regular": 40,
     "carpool": 80
+    
+  },
+  {
+    "id":2,
+    "available": 450,
+    "regular": 440,
+    "carpool": 850
   }
   
 ]

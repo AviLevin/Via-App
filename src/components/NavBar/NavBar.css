@@ -22,3 +22,13 @@
     
   }
  
+
+  @media screen and (max-width: 600px) {
+    .NavBar {
+      width: 100%;
+      height: 70px;
+      position: top;
+    }
+    .NavBar a {float: left;}
+    div.content {margin-left: 0;}
+  }

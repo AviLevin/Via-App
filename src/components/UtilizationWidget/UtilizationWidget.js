@@ -16,10 +16,14 @@ class SideBar extends Component {
           <Switch>
             <Route exact path="/">
               <UtilizationGraph />
+             
             </Route>
 
             <Route path="/UtilizationText">
               <UtilizationText />
+             
+             
+              
             </Route>
           </Switch>
         </Router>

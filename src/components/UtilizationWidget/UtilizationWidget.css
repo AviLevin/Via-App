@@ -13,3 +13,17 @@
   position: fixed;
   right: 0px;
 }
+
+
+
+@media screen and (max-width: 600px) {
+  .UtilizationWidget {
+    min-width: 100%;
+    height: auto;
+    margin: -182px 2px -218px 138px;
+    position: fixed;
+    bottom: 0px;
+  }
+  .UtilizationWidget a {float: bottom;}
+  div.content {margin-left: 0;}
+}
